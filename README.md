@@ -35,6 +35,8 @@ Threat-intelligence teams who enrich observables through one API.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-analysis` | A first observable analysis through the API |
